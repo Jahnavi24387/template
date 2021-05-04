@@ -1,6 +1,6 @@
 # gitboook-publishable-template
 
-<swagger>https://petstore.swagger.io/v2/swagger.json</swagger>
+<swagger>test.json</swagger>
 
 template to use for publishing gitbooks to github.com
 
